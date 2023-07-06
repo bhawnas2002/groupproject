@@ -1,0 +1,122 @@
+
+.tour-page{
+    background-color: black;
+    height: 133vh;
+    width: 98.5vw;
+}
+.container{
+    height: 133vh;
+    width: 45rem;
+    margin: 0 15.6rem ;
+    padding-top: 4rem;
+}
+
+.container .para{
+    color: #c2baba;
+    text-align: center;
+    padding-top:1.55rem;
+    font-style: italic;
+    
+}
+
+.container h1{
+    text-align: center;
+    font-weight: bolder;
+    color:white;
+
+}
+.tour_details{
+    width:55.75vw;
+    height:19vh;
+    background-color:white;
+}
+
+.tour_details li{
+    border-bottom: 0.5px solid rgb(171, 163, 163);
+    height: 2.5rem;
+    padding: .5rem;
+    text-align: left;
+}
+.tour_details :last-child{
+    border: none;
+}
+
+.number{
+    margin-left:36rem;
+    background-color: black;
+    color: white;
+    border-radius: 50%;
+    padding:.2rem .5rem;
+}
+
+.tour_details .title{
+    color: #757575;
+}
+.tour_details .subtitle{
+    margin-left: 1.5rem;
+    display: inline;
+    background-color:  #F44336;
+    color: white;
+    padding: 0.3rem;
+    
+}
+.parent{
+    flex-wrap: wrap;
+    display: flex;
+    gap: 1.3rem;
+    margin: 0 -.8rem 0 -.8rem;
+    padding: 32px 8px;
+}
+.article{
+    height: 25.3rem;
+    width:14rem;
+    margin-left: .3rem;
+    background-color: white;
+
+}
+.article img{
+    height: 13rem;
+    width: 14rem;
+}
+
+.article .city-name{
+    font-size: 1rem;
+    font-weight: bold;
+    margin: .5rem 1rem;
+
+}
+
+.article .time{
+    color:#757575;
+    margin:.5rem 1rem;
+}
+
+.article .tour-about{
+    margin-left: 1rem;
+    padding-top: 1rem;
+    width: 12rem;
+}       
+
+.button{
+    background-color: black;
+    color: azure;
+    font-size: .9rem ;
+    padding:.6rem .5rem;
+    border: none;
+    text-decoration: none;
+    transition: all ease-in-out;
+
+}
+
+.button:hover {
+    background-color:#cccccc;
+    color: black;
+    border: none;
+    text-decoration: none;
+  }
+
+.article .button{
+    margin-top :-1em;
+    margin-right:7rem ;
+    
+}

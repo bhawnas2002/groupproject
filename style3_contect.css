@@ -1,0 +1,85 @@
+/* contect page*/
+.contect{
+    height: 12rem;
+    width: 50rem;
+    margin: 0rem 12rem;
+    padding: 5rem 2rem;
+}
+
+.contect .title{
+    font-family: "Segoe UI", Arial, sans-serif;
+    font-size: 2rem;
+    letter-spacing: .4rem;
+    text-align: center;
+    height: 3rem;
+    width: 46rem;
+    margin: 1rem;
+}
+
+.contect .subtitle{   
+    color: #888585;
+    font-style: italic;
+    margin-left: 22rem;
+}
+.contect-container{
+height:12rem ;
+width: 50rem;
+padding: 2rem 0 2rem 0;
+display: flex;
+}
+.contect-details{
+    height: 20rem;
+    width: 22rem;
+    margin-left: 51px;
+
+}
+.emoji{
+    display: block;
+    text-align: left;
+}
+
+.inp{
+    height: 2.53rem;
+    width:10rem ;
+    border: 1px solid  #CCCCCC;
+    padding: 1rem ;
+    margin-bottom: .35rem;
+    
+}
+.big-input{
+    height: 2.53rem;
+    width: 20.3rem;
+    border: 1px solid  #CCCCCC;
+    padding: 1rem ;
+    margin-bottom: .35rem;
+}
+
+.btn{
+    border: none;
+    margin-left: 16.5rem;
+}
+.maping{
+    margin-top: 16rem;
+    height: 800px;
+    width:100%;
+}
+
+.icon{
+    margin-top: 7rem ;
+    margin-left: 20rem;
+    /* font-size: 50px; */
+}
+.icon .fa{
+    font-size: 1.5rem;
+    color: #888585;
+    
+}
+.icon .w3{
+    margin-left: 8px;
+    color: #888585;
+    text-decoration: underline;
+}
+.last{
+    border: #888585;
+    padding-top: 3rem;
+}

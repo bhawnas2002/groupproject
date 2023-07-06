@@ -1,0 +1,61 @@
+*{
+    padding: 0px;
+    box-sizing: 0px;
+    margin: 0px;
+}
+.container{
+    height: 100vh;
+    width: 100vw;
+    /* border:2px solid red ; */
+    /* margin: auto; */
+    /* margin-top: 60px; */
+}
+.h1{
+    display: block;
+    height: 15vh;
+    background-color: #009688;
+    padding-top: 01rem;
+    text-align: center;
+    font-size: 3rem;
+    color: white;
+}
+#form1{
+    margin-left: 05rem;
+    font-weight: bold;
+}
+#form{
+    margin-left: 05rem;
+}
+.box{
+    height: 30px;
+    width: 70vw;
+    margin-left: 0rem;
+}
+#PAY{
+    background-color: #009688;
+    color: white;
+    font-weight: 900;
+    margin-left: 05rem;
+}
+#Close{
+    background-color: rgb(216, 37, 37);
+    margin-left: 05rem;
+    width: 09vw;
+    height: 04vh;
+    font-weight: bolder;
+    color: white;
+}
+.last{
+    font-weight: 100;
+    float: inline-end;
+    margin-right: 19rem;
+}
+#blue{
+    color: rgb(25, 205, 218);
+    /* float: inline-end; */
+}
+/* .h1image{
+    margin-top: ;
+    height: 05rem;
+    width: 04rem;
+} */
